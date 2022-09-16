@@ -1,3 +1,2 @@
 # dio-desafio-github-repositorio
-Desafio da dio, estudo de github
-Treinando comandos do git no cmd
+#### Dedicado para estudo do Bootcamp QUEBEC Java 
